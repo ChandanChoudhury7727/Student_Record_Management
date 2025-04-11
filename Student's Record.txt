@@ -1,0 +1,79 @@
+
+
+			Student's Details
+		_________________________________
+
+	Student Name: chandan
+	ID: 352
+	Section: 3
+	Semester: 6
+	Department: cse
+	University Name: cgu
+	Student Blood Group: O+ve
+	University Current Semester Result: 9.20
+	University Overall Result: 8.80
+
+
+			Student's Background
+		____________________________________
+
+	College Name: st.xavier
+	H.S.C Passing Year: 2021
+	H.S.C Result in GPA: 7.50
+	H.S.C Board: cbse
+	School Name: shs
+	S.S.C Passing Year: 2019
+	S.S.C Result in GPA: 8.30
+	S.S.C Board: icse
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 8280912554
+	Father's Name: venu
+	Mother's Name: usha
+	Father's Phone Number: 9937087968
+	Mother's Phone Number: 8249641430
+	Present Address: Bbsr
+	Permanent Address: rgda
+	Other's Details and Comment: 765001,Odisha
+
+			Student's Details
+		_________________________________
+
+	Student Name: bheem
+	ID: 123
+	Section: 1
+	Semester: 6
+	Department:  cse
+	University Name: cgu
+	Student Blood Group: o
+	University Current Semester Result: 8.00
+	University Overall Result: 8.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: cgu
+	H.S.C Passing Year: 2020
+	H.S.C Result in GPA: 8.00
+	H.S.C Board: cbse
+	School Name: cgu
+	S.S.C Passing Year: 2018
+	S.S.C Result in GPA: 8.00
+	S.S.C Board: cbse
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 9632145873
+	Father's Name: bheem father
+	Mother's Name: bheem mother
+	Father's Phone Number: 89745
+	Mother's Phone Number: 61236
+	Present Address: dholakpur
+	Permanent Address: dholakpur
+	Other's Details and Comment: 752054
